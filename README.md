@@ -22,7 +22,7 @@ I won't share them due to possible copyright conflicts, but you can finetune you
 First, fill up <code>datasets/MyEssays.txt</code> with essays following the format proveded. Then, simply run 'net-train.py'
 
 For initial training, I personally recommend 4000 steps, especially with as much data as I had.
-Additionally, running <code>'net-train.py'</code> takes a <b>lot</b> of computing power. Using a jupiter notebook, as described in <a href="https://github.com/minimaxir/gpt-2-simple">the gpt2-simple repository</a> is recommended.
+Additionally, running <code>'net-train.py'</code> takes a <b>lot</b> of computing power. Using a jupyter notebook, as described in <a href="https://github.com/minimaxir/gpt-2-simple">the gpt2-simple repository</a> is recommended.
 
 ## Finetuning on your own essays
 Finetuning is similar and also a surefire way to keep your essays uniquely yours!
