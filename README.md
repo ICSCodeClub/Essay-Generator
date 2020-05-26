@@ -28,4 +28,4 @@ Additionally, running <code>'net-train.py'</code> takes a <b>lot</b> of computin
 Finetuning is similar and also a surefire way to keep your essays uniquely yours!
 First, download the model as described in <b>Downloading the Trained Model</b> to get a starting point.
 Then, much like training the model, fill in <code>datasets/MyEssays.txt</code> and run <code>'net-train.py'</code>.
-Again, I'd recommend the jupiter notebook to train the network.
+Again, I'd recommend the jupyter notebook to train the network.
