@@ -14,7 +14,7 @@ First, install the requirements by running <code>'pip3 install -r requirements.t
 Make sure you have a generated neural net downloaded (see <b>Downloading the Trained Model</b>).
 <br>Now, you need to write the seed paragraph in <code>input.txt</code>. The longer it is, the more paragraphs will be generated. Include all quotes you want in your final essay here.
 Then, run either <code>'essay.py'</code> or <code>'essay-respect-quotes.py'</code> in command prompt or powershell to both generate and print the essay to the command line!
-<br><i>You may need to run it multiple times to get a perfect or even useable result. Mix and match!</i>
+<br><i>You may need to run it multiple times to get a perfect or even useable result.</i>
 
 ## Training your own model
 I finetuned my model on 40mb of freely available essays on the internet. 
