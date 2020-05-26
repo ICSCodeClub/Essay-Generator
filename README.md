@@ -3,10 +3,10 @@ Generates essays based on a seed paragraph to mitigate laborious work using pyth
 It respects quotes and has a generally logical flow.
 
 ## Downloading the Trained Model
-You can download the pretrained model from my onedrive here:
-<link pending>
+You can download the pretrained model from my google drive
+<a href="https://drive.google.com/drive/folders/11BeFiCpibfNUjyo6e3Vip7OknlsCIiaQ?usp=sharing">here</a><br><br>
 
-Place it in <code>models/____</code>
+Place it in <code>checkpoint/____</code>
 Make sure it's called <code>'run1'</code> unless you edited the code to reflect a different file name
 
 ## Running the program
