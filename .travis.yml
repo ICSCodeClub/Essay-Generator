@@ -2,6 +2,7 @@ language: python
 python:
 - 3.5
 before_install:
-  - sudo pip install pytest
+ - sudo apt-get -y install libxml2-dev
+ - sudo pip install pytest
 script:
  - py.test
