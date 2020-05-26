@@ -2,6 +2,6 @@ language: python
 python:
 - 3.5
 before_install:
-  - sudo pip3 install pytest
+  - sudo pip install pytest
 script:
  - py.test
