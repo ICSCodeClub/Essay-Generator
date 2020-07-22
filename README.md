@@ -31,3 +31,8 @@ Finetuning is similar and also a surefire way to keep your essays uniquely yours
 First, download the model as described in <b>Downloading the Trained Model</b> to get a starting point.
 Then, much like training the model, fill in <code>datasets/MyEssays.txt</code> and run <code>'net-train.py'</code>.
 Again, I'd recommend the jupyter notebook to train the network.
+
+
+
+## Examples
+Every commit, travis ci will make an essay based off <code>imput.txt</code>, and you can check it out <a href="https://travis-ci.com/github/ICSCodeClub/Essay-Generator">here</a><br><br>
